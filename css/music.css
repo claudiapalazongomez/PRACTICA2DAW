@@ -14,7 +14,7 @@
 
 .grid-item {
   border: thin gray solid;
-  padding: 10px;
+  padding: 50px;
 }
 
 .container:hover .overlay {
@@ -27,12 +27,6 @@ img {
 
 .container {
   position: relative;
-}
-
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
 }
 
 /*text format*/
@@ -50,6 +44,6 @@ img {
 }
 
 #date-grid {
-  font-size: 20px;
+  font-size: 15px;
   color: black;
 }
