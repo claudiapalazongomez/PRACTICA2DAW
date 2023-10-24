@@ -1,0 +1,20 @@
+.contenedor-imagenes {
+  height: 800px;
+}
+
+.imagenes {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.8);
+}
+
+.text-background {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Aquí puedes ajustar la transparencia (el valor 0.8) o el color de fondo a tu preferencia */
+  padding: 15px; /* Agregar un espacio de relleno para que el fondo sea más visible */
+  border-radius: 10px; /* Opcional: agregar esquinas redondeadas para un aspecto más elegante */
+}
