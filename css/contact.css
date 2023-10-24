@@ -1,0 +1,14 @@
+#message {
+  resize: none;
+}
+
+.contacto {
+  width: 450px;
+  height: 300px;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
